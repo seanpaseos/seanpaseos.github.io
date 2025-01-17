@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .top {
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .left {
+    background-color: #f1c40f;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .right {
+    background-color: #2ecc71;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .bottom {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .content {
+    flex: 1;
+    display: flex;
+  }
