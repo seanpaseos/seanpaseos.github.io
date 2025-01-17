@@ -1,7 +1,6 @@
-<style>
-    div {
-        width: 350px;
-        height: 80px;
-        border: 5px solid black;
-    }
-</style>
+div {
+     width: 350px;
+    height: 80px;
+    border: 5px solid black;
+    margin: 0 auto; /* Centers the div horizontally */
+}
