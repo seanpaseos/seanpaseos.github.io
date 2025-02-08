@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#weather-details {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#weather-details p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+#weather-details span {
+    font-weight: bold;
+}
